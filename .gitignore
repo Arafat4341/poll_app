@@ -1,2 +1,2 @@
-poll_app/settings.py
+# poll_app/settings.py
 db.sqlite3
